@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/81e0953caec9eaf6.css","style"]
+:HL["/_next/static/media/GeistMonoVF-s.p.2cee7d16.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/GeistVF-s.p.4c3c0b96.woff","font",{"crossOrigin":"","type":"font/woff"}]
+0:{"buildId":"ILQnCXw-xEVApZRuJ1M3C","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"r","paramType":null,"paramKey":"r","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"superfeet-work-cushion-insoles-2","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

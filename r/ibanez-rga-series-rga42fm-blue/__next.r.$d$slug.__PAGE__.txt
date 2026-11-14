@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[98431,["/_next/static/chunks/3e137094986fd4ac.js","/_next/static/chunks/8cebdbfee3f48a59.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"ILQnCXw-xEVApZRuJ1M3C","rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"name":"Ibanez RGA Series RGA42FM - Blue Lagoon Burst Flat","rating":4.5,"reviews":93,"price":{"value":0,"currency":"USD"},"url":"https://www.amazon.com/dp/B01MY7MR5F?tag=mymy011-20&linkCode=ogi&th=1&psc=1","asin":"B01MY7MR5F","categories":[],"image":["https://m.media-amazon.com/images/I/41zCACZqmiL._SL500_.jpg","https://m.media-amazon.com/images/I/51J0awPRnLL._SL500_.jpg"],"features":["2 Humbucking Pickups - Blue Lagoon Burst Flat","Solidbody Electric Guitar with Mahogany Body","Jatoba Fingerboard","Maple Top Neck"]},"reviews":null,"snapshotAt":"2026-11-14T01:24:09.900Z"}],[["$","script","script-0",{"src":"/_next/static/chunks/8cebdbfee3f48a59.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
